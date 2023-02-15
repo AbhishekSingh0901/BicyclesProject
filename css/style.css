@@ -1,0 +1,16 @@
+/* .carousel-inner {
+  height: 50vh;
+}
+
+.item,
+img {
+  height: auto !important;
+} */
+
+.progress-bar {
+  background-color: #fca311 !important;
+}
+
+.image-b5 {
+  border: solid 3px #e5e5e5;
+}
